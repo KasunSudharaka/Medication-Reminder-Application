@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Medication Reminder</string>
+
+    <string name="reminder_time_prompt">Choose a plan</string>
+
+    <string-array name="reminder_times">
+
+
+
+        <item>Once Per Day</item>
+        <item>Twice Per Day</item>
+        <item>3 Times Per Day</item>
+
+        <item>Per Every n Minutes</item>
+        <item>Per Every n Hours</item>
+        <!--        <item>Every 12 Hours</item>-->
+        <!--        <item>Ev</item>-->
+        <!--        <item>Singapore</item>-->
+        <!--        <item>New Zealand</item>-->
+        <!--        <item>India</item>-->
+    </string-array>
+
+    <string-array name="scehdule_type">
+        <item>Continous Treatment</item>
+        <item>Only One Day</item>
+
+    </string-array>
+
+
+</resources>

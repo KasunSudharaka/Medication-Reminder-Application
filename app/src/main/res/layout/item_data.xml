@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:padding="18dp"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:orientation="vertical"
+        android:background="@drawable/button_style">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@+id/dummydatatv"
+            android:textSize="20sp"
+            android:text="dummy"
+            android:textColor="#fff"
+            android:visibility="invisible"></TextView>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="end">
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="15dp"
+        android:background="@drawable/pills"
+        android:layout_gravity="center_vertical"
+        ></ImageView>
+
+        <TextView
+            android:id="@+id/mednametv"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:text="Name"
+            android:textColor="#fff"
+            android:textSize="17sp"
+            android:layout_marginLeft="5dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/takestv"
+            android:layout_marginStart="80dp"
+    android:textSize="18sp"
+    android:text="0"
+    android:textColor="#5CEF63"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Taken"
+            android:layout_marginLeft="4dp"
+            android:textColor="#5CEF63"
+            android:textSize="16sp"></TextView>
+
+
+</LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
