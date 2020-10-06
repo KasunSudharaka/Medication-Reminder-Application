@@ -42,7 +42,7 @@ this library was used for implementing CardViews
 this library was used for implementing Gif Animations. 
 
 
-![GitHub Logo](/img/image005.jpg)
+![GitHub Logo](/img/image005.jpg =250x250)
 Format: ![Alt Text](url)
 
 ![GitHub Logo](/img/image007.jpg)
