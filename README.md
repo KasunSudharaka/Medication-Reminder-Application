@@ -23,7 +23,7 @@ This is a simple app designed for helping the patients to set reminders for thei
 7.	Mark the medication as taken, and update the reminder timer.
 8.	Delete the reminder.
 
-  •<h1>	Third party libraries
+  •<h6>	Third party libraries
 
     o   com.github.jhonnyx2012:horizontal-picker:1.0.6
 
