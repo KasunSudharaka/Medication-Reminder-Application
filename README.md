@@ -23,24 +23,21 @@ This is a simple app designed for helping the patients to set reminders for thei
 7.	Mark the medication as taken, and update the reminder timer.
 8.	Delete the reminder.
 
-  •<h6>	Third party libraries
+  •<h1>	Third party libraries
 
-o    	com.github.jhonnyx2012:horizontal-picker:1.0.6
+    o   com.github.jhonnyx2012:horizontal-picker:1.0.6
 
 This library was used for jhonnyx12/ Horizontal picker, for implementing horizontal date picker for the app.  
 
-o	    com.google.android.material:material:1.1.0
+    o	  com.google.android.material:material:1.1.0
 
 this library was used for implementing FloatingActionButton.
 
-
-
-
-o	    androidx.cardview:cardview:1.0.0
+    o	  androidx.cardview:cardview:1.0.0
 
 this library was used for implementing CardViews 
 
-o	    pl.droidsonroids.gif:android-gif-drawable:1.2.17
+    o	  pl.droidsonroids.gif:android-gif-drawable:1.2.17
 
 this library was used for implementing Gif Animations. 
 
