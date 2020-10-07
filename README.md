@@ -44,51 +44,24 @@ this library was used for implementing Gif Animations.
 
 
 <img src="/img/image007.jpg" width="30%" height="30%">.
-<p>                 </p>
+<p>        </p>
 <img src="/img/image005.jpg" width="30%" height="30%">.
 <br>
 <img src="/img/image011.jpg" width="30%" height="30%">.
+<p>        </p>
 <img src="/img/image009.jpg" width="30%" height="30%">.
 <br>
 <img src="/img/image013.jpg" width="30%" height="30%">.
+<p>        </p>
 <img src="/img/image015.jpg" width="30%" height="30%">.
 <br>
 <img src="/img/image017.jpg" width="30%" height="30%">.
+<p>        </p>
 <img src="/img/image019.jpg" width="30%" height="30%">.
 <br>
 <img src="/img/image021.jpg" width="30%" height="30%">.
+<p>        </p>
 <img src="/img/image023.jpg" width="30%" height="30%">.
-
-
-
-
-![GitHub Logo](/img/image007.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image009.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image011.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image013.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image015.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image017.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image019.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image021.jpg)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/img/image023.jpg)
-Format: ![Alt Text](url)
-
 
 
 
