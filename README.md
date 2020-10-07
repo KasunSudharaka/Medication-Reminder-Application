@@ -43,12 +43,12 @@ this library was used for implementing Gif Animations.
 
 
 
-<img src="/img/image007.jpg" width="30%" height="30%">.
-<img src="/img/image005.jpg" width="30%" height="30%">.
-<img src="/img/image009.jpg" width="30%" height="30%">.
-<img src="/img/image011.jpg" width="30%" height="30%">.
-<img src="/img/image013.jpg" width="30%" height="30%">.
-<img src="/img/image015.jpg" width="30%" height="30%">.
+<img src="/img/image007.jpg" width="40%" height="40%">.
+<img src="/img/image005.jpg" width="40%" height="40%">.
+<img src="/img/image011.jpg" width="40%" height="40%">.
+<img src="/img/image009.jpg" width="40%" height="30%">.
+<img src="/img/image013.jpg" width="40%" height="30%">.
+<img src="/img/image015.jpg" width="40%" height="30%">.
 <img src="/img/image017.jpg" width="30%" height="30%">.
 <img src="/img/image019.jpg" width="30%" height="30%">.
 <img src="/img/image021.jpg" width="30%" height="30%">.
