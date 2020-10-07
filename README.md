@@ -43,11 +43,14 @@ this library was used for implementing Gif Animations.
 
 
 
-<img src="/img/image005.jpg" width="40%">.
+<img src="/img/image005.jpg" width="30%" height="30%">.
+<img src="/img/image007.jpg" width="30%" height="30%">.
+<img src="/img/image009.jpg" width="30%" height="30%">.
+<img src="/img/image011.jpg" width="30%" height="30%">.
+<img src="/img/image005.jpg" width="30%" height="30%">.
+<img src="/img/image005.jpg" width="30%" height="30%">.
 
 
-![GitHub Logo](/img/image005.jpg width="200" height="400")
-Format: ![Alt Text](url)
 
 ![GitHub Logo](/img/image007.jpg)
 Format: ![Alt Text](url)
