@@ -44,7 +44,7 @@ this library was used for implementing Gif Animations.
 
 
 <img src="/img/image007.jpg" width="30%" height="30%">.
-<p>        </p>
+<p>    </p>
 <img src="/img/image005.jpg" width="30%" height="30%">.
 <br>
 <img src="/img/image011.jpg" width="30%" height="30%">.
