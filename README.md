@@ -29,14 +29,6 @@ This is a simple app designed for helping the patients to set reminders for thei
 
 This library was used for jhonnyx12/ Horizontal picker, for implementing horizontal date picker for the app.  
 
-    o	  com.google.android.material:material:1.1.0
-
-this library was used for implementing FloatingActionButton.
-
-    o	  androidx.cardview:cardview:1.0.0
-
-this library was used for implementing CardViews 
-
     o	  pl.droidsonroids.gif:android-gif-drawable:1.2.17
 
 this library was used for implementing Gif Animations. 
